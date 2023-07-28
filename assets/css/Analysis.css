@@ -1,0 +1,92 @@
+/* .main-analysis{
+    background-color: #ffff;
+    background-image: url(../images/contact-bg.png);
+    background-repeat: no-repeat;
+    
+}
+body{
+    background-color: #ffff;
+    background-image: url(../images/baner-dec-right.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+} */
+
+
+form#analysisform .contact-dec {
+    position: absolute;
+    right: -166px;
+    bottom: 0;
+  }
+  
+  form#analysisform .contact-dec img {
+    max-width: 178px;
+  }
+  
+  form#analysisform {
+    margin-left: 30px;
+    position: relative;
+    background-color: #fff;
+    padding: 60px 30px;
+    border-radius: 20px;
+  }
+  
+  form#analysisform input {
+    width: 100%;
+    height: 46px;
+    border-radius: 33px;
+    background-color: #d1f3ff;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-weight: 300;
+    color: #2a2a2a;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+  }
+  
+  form#analysisform input::placeholder {
+    color: #2a2a2a;
+  }
+  
+  form#analysisform textarea {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 180px;
+    min-height: 140px;
+    height: 140px;
+    border-radius: 20px;
+    background-color: #d1f3ff;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-weight: 300;
+    color: #2a2a2a;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+  }
+  
+  form#analysisform textarea::placeholder {
+    color: #2a2a2a;
+  }
+  
+  form#analysisform button {
+    display: inline-block;
+    background-color: #03a4ed;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 12px 25px;
+    border-radius: 23px;
+    letter-spacing: 0.25px;
+    border: none;
+    outline: none;
+    transition: all .3s;
+  }
+  
+  form#analysisform button:hover {
+    background-color: #fe3f40;
+  }
+  
+  

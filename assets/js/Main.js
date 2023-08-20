@@ -12,6 +12,8 @@ function analysisSubmit() {
     }
 }
 
+<<<<<<< HEAD
+=======
 // const analysisData = () => {
 
 //     const { value: name } = document.getElementById("name");
@@ -87,3 +89,5 @@ function analysisSubmit() {
 //         alert('There was an error submitting the form. Please try again.');
 //     });
 // });
+
+>>>>>>> e5f073804033d2fab658ce86a721c1a8f2c85e20
